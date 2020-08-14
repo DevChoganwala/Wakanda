@@ -16,6 +16,7 @@ html, body{
     background-color: black;
   }
   .navbar {
+    position: relative;
   }
   body{
       position: relative;
@@ -34,9 +35,9 @@ html, body{
   }
   .main-div{
       display: flex;
-      position: absolute;
+      position: relative;
       width: 100%;
-      padding-top: 71.88px;
+      /* padding-top: 80px; */
       height: 100%;
   }
   .w45{
