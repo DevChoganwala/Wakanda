@@ -73,6 +73,11 @@ h1 {
 .colored-section {
   background-color: white;
 }
+h2{
+  padding-top: 35px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 #filter {
   padding-top: 20px;
   color: dimgray;
@@ -114,6 +119,7 @@ h1 {
   height: 200px;
 }
 .carousel-main {
+  padding-top: 20px;
   position: relative;
 }
 .carousel {
@@ -121,7 +127,7 @@ h1 {
   height: 500px;
   position: relative;
   margin: 0px auto;
-  padding: 10px 10px;
+  padding: 40px 10px;
 }
 .carousel .carousel-items {
   width: 100%;
