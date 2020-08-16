@@ -13,7 +13,7 @@ html, body{
     max-height: 100%;
 }
 
-ul {
+.filter-bar{
   list-style-type: none;
   margin: 0;
   padding:20px;
