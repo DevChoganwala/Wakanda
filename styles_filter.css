@@ -12,6 +12,19 @@ html, body{
     height: 100%;
     max-height: 100%;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding:20px;
+  width: 19.8%;
+  background-color:  #f1f1f1;
+  position: fixed;
+  height: 70%;
+  overflow: auto;
+  border-radius: 40px 0px 0px 40px;
+}
+
 .navbar-col {
     background-color: black;
   }
