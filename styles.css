@@ -183,3 +183,13 @@ h2{
   box-shadow: 0 4px 8px 0 rgba(56, 56, 56, 0.2),
     0 6px 20px 0 rgba(63, 63, 63, 0.2);
 }
+.item-card-deadpool img {
+  height: 100%;
+  width: 100%;
+}
+.item-card-deadpool:hover {
+  background-color: #3e81da;
+  color: whitesmoke;
+  box-shadow: 0 4px 8px 0 rgba(56, 56, 56, 0.2),
+    0 6px 20px 0 rgba(63, 63, 63, 0.2);
+}
